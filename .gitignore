@@ -4,3 +4,5 @@ myenv/
 secc/
 virtual/
 virtual
+assignment3/fashion-mnist_train.csv
+assignment3/fashion-mnist_test.csv
